@@ -1,0 +1,9 @@
+opencv-contrib-python
+numpy
+pandas
+Pillow
+matplotlib
+scikit-learn
+tensorflow
+requests
+tkinter
