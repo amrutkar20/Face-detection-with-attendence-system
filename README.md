@@ -1,5 +1,5 @@
 # Face-detection-with-attendence-system
- #Code Requirements
+**#Code Requirements**
 
 Opencv(pip install opencv-python)
 
@@ -9,7 +9,7 @@ PIL (pip install Pillow)
 
 Pandas(pip install pandas)
 
-What steps you have to follow??
+**What steps you have to follow??**
 
 Download my Repository
 
@@ -17,7 +17,7 @@ Create a TrainingImage folder in a project.
 
 Run steup.py
 
-Project Structure
+**Project Structure**
 
 After run you need to give your face data to system so enter your ID and name in box than click on Take Images button.
 
@@ -35,7 +35,7 @@ You can store data in database (install wampserver),change the DB name according
 
 Manually Fill Attendace Button in UI is for fill a manually attendance (without facce recognition),it's also create a .csv and store in a database.
 
-scrren shot
+**scrren shot**
 ![image](https://user-images.githubusercontent.com/104386663/230852806-560eb965-4bfd-417f-a5ed-8db969fda307.png)
 
 ![image](https://user-images.githubusercontent.com/104386663/230852860-541deb37-066b-4bfd-861a-9a8f8e5b0b98.png)
